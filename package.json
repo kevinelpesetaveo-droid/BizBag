@@ -1,0 +1,39 @@
+{
+  "name": "bizbag",
+  "version": "1.0.0",
+  "description": "App de control de inventario y cuadre de caja para pequeños negocios",
+  "main": "expo-router/build/index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "test": "jest",
+    "lint": "eslint . --ext .ts,.tsx"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0.73.6",
+    "expo": "~51.0.0",
+    "expo-router": "~3.5.0",
+    "expo-sqlite": "~14.0.0",
+    "expo-device": "~6.0.0",
+    "@supabase/supabase-js": "^2.38.4",
+    "zustand": "^4.4.0",
+    "nativewind": "^2.0.11",
+    "tailwindcss": "3.3.0",
+    "react-native-safe-area-context": "4.8.2",
+    "react-native-screens": "~3.27.0",
+    "react-native-gesture-handler": "~2.14.0",
+    "react-native-reanimated": "~3.6.0",
+    "react-native-vector-icons": "^10.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "~18.2.45",
+    "@types/react-native": "~0.73.0",
+    "typescript": "~5.3.3",
+    "@typescript-eslint/eslint-plugin": "^6.0.0",
+    "@typescript-eslint/parser": "^6.0.0",
+    "eslint": "^8.0.0"
+  }
+}
