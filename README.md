@@ -1,4 +1,4 @@
-# 🎒 BizBag - App de Control de Inventario y Cuadre
+# 🏪 BizBag - App de Control de Inventario y Cuadre
 
 App móvil para pequeños negocios que permite gestionar inventario y realizar cuadres de caja de forma simple y eficiente.
 
@@ -132,7 +132,7 @@ npm run ios
 npm run android
 ```
 
-## 💾 Base de Datos
+## 📂 Base de Datos
 
 ### SQLite (Local)
 
@@ -283,7 +283,7 @@ Seguimos convención de commits:
 - [ ] Documentación de API
 - [ ] Guía de desarrollo
 
-### 📋 Por Hacer
+### 📝 Por Hacer
 - [ ] Exportar datos a PDF/Excel
 - [ ] Sincronización en tiempo real
 - [ ] Reportes avanzados

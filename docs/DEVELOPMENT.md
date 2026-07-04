@@ -18,7 +18,7 @@ cp .env.example .env
 npm start
 ```
 
-## 📁 Estructura de Código
+## 📋 Estructura de Código
 
 ### `/app` - Rutas (Expo Router)
 

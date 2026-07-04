@@ -10,7 +10,7 @@
 - 💾 Integración de SQLite para base de datos local
 - 🔐 Autenticación con Supabase
 - 📱 Pantallas principales (Dashboard, Productos, Inventario, Cuadre, Historial)
-- 🎯 Funcionalidades de control de inventario
+- 🏷️ Funcionalidades de control de inventario
 - 💰 Sistema de cuadre de caja con cálculos automáticos
 - 📧 Sistema de mensajes/buzón
 - ⚙️ Panel de administración
