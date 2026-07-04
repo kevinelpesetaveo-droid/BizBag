@@ -170,7 +170,7 @@ export default function MyScreen() {
     <SafeAreaView className="flex-1 bg-background">
       <TopBar title="Mi Pantalla" />
       <View className="flex-1 items-center justify-center">
-        <Text className="text-foreground text-lg font-bold">Hola!</Text>
+        <Text className="text-foreground text-lg font-bold">¡Hola!</Text>
       </View>
     </SafeAreaView>
   );

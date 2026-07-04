@@ -2,9 +2,7 @@
 
 App móvil para pequeños negocios que permite gestionar inventario y realizar cuadres de caja de forma simple y eficiente.
 
-## 📋 Características
-
-### ✅ Funcionalidades Principales
+## ✅ Características Principales
 
 - **🛍️ Gestión de Productos**: Crear, editar y eliminar productos con precio y categoría
 - **📦 Control de Inventario**: Registrar inicio, merma y adiciones de stock
